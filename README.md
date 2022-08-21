@@ -1,4 +1,22 @@
-# Hi there 👋
+
+## Hi 👋, I'm a software engineer working in Utrecht, Netherlands
+
+<p align="left">
+  <a href="https://stackoverflow.com/users/3615504/reoxey">
+    <img alt="StackOverflow"
+src="https://stackoverflow-badge.vercel.app/?userID=3615504" />
+  </a>
+   <a href="https://leetcode.com/reoxey">
+    <img src="https://cp-logo.vercel.app/leetcode/reoxey" alt="Leet code rating" />
+  </a>
+  <a href="https://github.com/reoxey?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/reoxey?color=green&logo=github">
+  </a>
+  <a href="https://github.com/reoxey">
+    <img src="https://komarev.com/ghpvc/?username=reoxey" alt="visitors" />
+  </a>
+
+</p>
 
 ## About Me :man_technologist:
 
@@ -17,6 +35,19 @@ Designed, developed and supported sophisticated microservice based applications 
 - **Principles and patterns:** Microservices, SOLID, Hexagonal architecture.
 - **Cloud service:** GCP, Linode, Digital Ocean.
 - **Others:** Kubernetes, Spark, RabbitMQ, Docker, Git. 
+
+#### Development Stuffs:
+
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reoxey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoxey&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/reoxey?theme=light&font=Karma&ext=contest" />
+</p>
 
 ___
 
@@ -39,3 +70,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Connect With Me
+
+<p left="center">
+<a href="https://twitter.com/reoxey">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/reoxey">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="mailto:hemrajkerkar@gmail.com">
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
